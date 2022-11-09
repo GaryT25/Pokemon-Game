@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+.pikachu{
+    position: relative;
+    left: 500px;
+    top:10px;
+}
+.charizard{
+    position: relative;
+    top:190px;
+    left: 800px;
+}
+.pikaHealth{
+    position: relative;
+    left: 604px;
+    color: greenyellow;
+}
